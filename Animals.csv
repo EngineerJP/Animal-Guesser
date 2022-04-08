@@ -1,0 +1,46 @@
+Subject,Predicate,Truth value
+Dog,Has four legs,True
+Dog,Can fly,False
+Dog,Is an omnivore,True
+Duck,Has two legs,True
+Duck,Can fly,True
+Cat,Is a carnivore,True
+Cat,Has four legs,True
+Cat,Can fly,False
+Dog,Has a trunk,False
+Elephant,Has a trunk,True
+Elephant,Has four legs,True
+Elephant,Can fly,False
+Cat,Sharp teeth,False
+Wolf,Sharp teeth,True
+Wolf,Has four legs,True
+Wolf,Can fly,False
+Wolf,Is an omnivore,False
+Wolf,Has two legs,False
+Wolf,Is a carnivore,True
+Wolf,Has a trunk,False
+Dog,Can hibernate,False
+Bear,Can hibernate,True
+Bear,Has four legs,True
+Bear,Can fly,False
+Bear,Is an omnivore,True
+Bear,Has two legs,False
+Bear,Is a carnivore,False
+Bear,Has a trunk,False
+Duck,Lives in the ocean,False
+Dolphin,Lives in the ocean,True
+Dolphin,Has four legs,False
+Dolphin,Can fly,False
+Dog,Lives in desert,False
+Llama,Lives in desert,True
+Llama,Has four legs,True
+Llama,Can fly,False
+Llama,Is an omnivore,True
+Llama,Has two legs,False
+Llama,Is a carnivore,False
+Llama,Has a trunk,False
+Llama,Sharp teeth,False
+Llama,Can hibernate,False
+Elephant,Is an omnivore,True
+Elephant,Has two legs,False
+Elephant,Is a carnivore,False
